@@ -1,0 +1,26 @@
+{
+  "name": "javascript-linkify",
+  "version": "0.3.0",
+  "description": "Process links in text!",
+  "main": "ba-linkify.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/civicsource/javascript-linkify.git"
+  },
+  "keywords": [
+    "linkify",
+    "auto-link",
+    "linked text",
+    "links in text"
+  ],
+  "author": "Ben Alman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/civicsource/javascript-linkify/issues"
+  },
+  "homepage": "https://github.com/civicsource/javascript-linkify#readme"
+}
